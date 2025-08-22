@@ -4,7 +4,7 @@ I'm a Systems and Computer Engineering student at Universidad de los Andes (Colo
 Currently learning the fundamentals of my field, focusing on programming basics, algorithms, and data structures.
 
 ## Knowledge
-- Python (basic level)
+- Python 
 - Programming fundamentals
 - Computational logic
 
