@@ -1,16 +1,24 @@
-## Hi there 👋
+#Hi there, I'm Carlos Espinosa
 
-<!--
-**Caem2000Marmolejo/Caem2000Marmolejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems and Computer Engineering student at Universidad de los Andes (Colombia).  
+Currently learning the fundamentals of my field, focusing on programming basics, algorithms, and data structures.
 
-Here are some ideas to get you started:
+##Knowledge
+- Python (basic level)
+- Programming fundamentals
+- Computational logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Teamwork
+I enjoy working collaboratively, supporting my teammates, and taking on a helpful role when needed. I believe in learning together and value different ideas and perspectives.
+
+##Current Goals
+- Improve my programming logic.
+- Learn more about data structures and algorithms.
+- Contribute to small projects and gain experience through teamwork.
+
+##Contact
+-Email ca.espinosam1@uniandes.edu.co
+
+
+
+Thanks for visiting my profile! 🚀
